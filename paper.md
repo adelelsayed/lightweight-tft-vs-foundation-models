@@ -202,6 +202,8 @@ The authors used an AI assistant (Anthropic Claude) to support code development,
 
 - **NHS English Prescribing Dataset (EPD, with SNOMED code).** NHS Business Services Authority Open Data Portal. https://opendata.nhsbsa.net/dataset/english-prescribing-dataset-epd-with-snomed-code (accessed June 2026). Open Government Licence.
 - **M5 Forecasting – Accuracy.** Kaggle competition dataset. https://www.kaggle.com/competitions/m5-forecasting-accuracy
+- **Code, per-seed forecasts, analysis scripts.** Archived on Zenodo, DOI: 10.5281/zenodo.21189124.
+- **Preprint.** Zenodo, DOI: 10.5281/zenodo.21189175.
 
 ## References
 
