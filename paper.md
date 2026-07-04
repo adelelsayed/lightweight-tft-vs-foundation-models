@@ -1,6 +1,6 @@
 # A Lightweight Temporal Fusion Transformer Matches Billion-Scale Zero-Shot Foundation Models for Demand Forecasting at a Fraction of the Cost
 
-**Author:** Adel Elsayed Mahmoud
+**Author:** Adel Elsayed Mahmoud (Independent Researcher; ORCID: 0009-0009-2892-1200)
 **Corresponding author:** adelelsayed1991@gmail.com
 
 ---
